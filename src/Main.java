@@ -1,7 +1,7 @@
 import java.io.File;
 public class Main {
     public static void main(String[] args) {
-        // Terminal: new-item -path .\text.txt -value 'Hello wordl!'
+        // Terminal: new-item -path .\text.txt -value 'Hello world!'
         
         // тема урока Files
         // Windows работает с backslash '\'
